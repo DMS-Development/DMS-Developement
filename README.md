@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello! My name is David and im a new student to the software developement world. I started learning on my own in 2022 using "The Odin Project" to jump start my education and have since joined Tech Elevator to further my knowledge. Im currently expanding my knowledge with Javascript and hopefully some .NET as well. You can always reach out to me at ***davidshimenko@proton.me***. Fun fact: Bird magic 🦜 is the only way to turn yourself into a ball.
+👋 **Hi, I'm David!** I began my journey into the software development world in 2022, initially self-teaching through "The Odin Project." I then further honed my skills at Tech Elevator.
+
+🛠️ **Tech Stack**: Currently diving deep into `Java`, `C#`, `Ruby`, `Vue`, `Postgres`, and `Angular`.
+
+📫 **Contact**: Feel free to reach out at `davidshimenko@proton.me`.
