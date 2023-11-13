@@ -1,21 +1,15 @@
-### Hi there 👋
+### Hello World, I'm David 👋
 
-<!--
-**DMS-Developement/DMS-Developement** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer with a twist - blending a background in leadership, business management, and creative arts into the tech world. My coding adventure started in 2022 with "The Odin Project" and rapidly evolved at Tech Elevator. I'm passionate about building tech solutions that have a real-world impact, especially in community and nonprofit sectors.
 
-Here are some ideas to get you started:
+🔨 **My Tech Toolbox**: I'm all about full-stack development, currently weaving magic with `Ruby`, `Java`, `C#`, `Vue`, and `Postgres`. I thrive on the challenge of turning complex problems into elegant, user-friendly software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-👋 **Hi, I'm David!** I began my journey into the software development world in 2022, initially self-teaching through "The Odin Project." I then further honed my skills at Tech Elevator.
+🚀 **Current Ventures**:
+- **Community Job Seeker Platform**: As the sole developer, I'm crafting a full-stack application designed to connect job seekers and employers in the Denver tech scene. Check it out [here](https://github.com/DMS-Developement/techyeet-database).
+- **Starfish - Nonprofit Membership Management System**: Developing a comprehensive system for a women's nonprofit to manage memberships seamlessly. Dive into the repo [here](https://github.com/DMS-Developement/membership-management).
 
-🛠️ **Tech Stack**: Currently diving deep into `Java`, `C#`, `Ruby`, `Vue`, `Postgres`, and `Angular`.
+💡 **I Love Collaborating**: Whether it's brainstorming solutions, code reviews, or just geeking out about the latest tech trends, I'm all in. If you're working on something exciting or need a hand with your project, [let's connect!](https://www.linkedin.com/in/davidshimenko/)
 
-📫 **Contact**: Feel free to reach out at `davidshimenko@proton.me`.
+📧 **Reach Out**: Drop me a line at `davidshimenko@proton.me` - whether it's for a project, advice, or just a chat about the latest in tech.
+
+Happy coding!
