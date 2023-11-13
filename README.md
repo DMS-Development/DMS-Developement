@@ -2,7 +2,7 @@
 
 I'm a Software Developer with a twist - blending a background in leadership, business management, and creative arts into the tech world. My coding adventure started in 2022 with "The Odin Project" and rapidly evolved at Tech Elevator. I'm passionate about building tech solutions that have a real-world impact, especially in community and nonprofit sectors.
 
-🔨 **My Tech Toolbox**: I'm all about full-stack development, currently weaving magic with `Ruby`, `Java`, `C#`, `Vue`, and `Postgres`. I thrive on the challenge of turning complex problems into elegant, user-friendly software.
+🔨 **My Tech Toolbox**: I'm all about full-stack development, currently weaving magic with `Ruby`, `Java`, `C#`, `Vue`, and `Postgres`.<br> I thrive on the challenge of turning complex problems into elegant, user-friendly software.
 
 🚀 **Current Ventures**:
 - **Community Job Seeker Platform**: As the sole developer, I'm crafting a full-stack application designed to connect job seekers and employers in the Denver tech scene. Check it out [here](https://github.com/DMS-Developement/techyeet-database).
